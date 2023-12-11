@@ -1,6 +1,8 @@
 # OpenMeter-PublicData
 
 Über dieses Repository stellen wir alle Zeitreihendaten als CSV-Dateien der Öffentlichkeit zur Verfügung.
+Es sei darauf hingewiesen, dass die Daten ggfs. von den Zeitreihendaten der Plattform / API abweichen können, da die Daten in diesem Repository in größeren Zeitabständen geupdated werden als die Daten der Plattform.
+Es ist also davon auszugehen, dass die Daten auf der Plattform immer aktueller sind als die Daten, die hier zum Download zur Verfügung gestellt werden.
 
 Besuchen Sie unsere Homepage:
 
